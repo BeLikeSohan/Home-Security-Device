@@ -6,4 +6,4 @@ This is the client application written for Windows, The Arduino source will be p
 ### Note
 
 This version of Home Security Device Client is abandoned because I have stopped using Windows and has been moved into Linux Based OS's.
-The cross platform version of this app made in Electron will be published soon.
+The cross platform version of this app made with Electron will be published soon.
